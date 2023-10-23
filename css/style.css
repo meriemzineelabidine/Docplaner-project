@@ -1,0 +1,586 @@
+body{
+    margin: 0;
+}
+.container-1 ul li{
+    list-style: none;
+    padding: 12px;
+}
+.container-1{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.logo-docplanner{
+    margin-top: 10px;
+}
+.list a{
+    text-decoration: none;
+    font-weight: 400px;
+    font-family:Roboto,Arial,sans-serif;
+}
+.list{
+    display: flex;
+}
+.list #lien2 a:hover{
+    color: #00b39b;
+}
+.list #lien3 a:hover{
+    color: #00b39b;
+}
+
+.list #lien2 a{
+    color: #747474;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 2em;
+    padding: 1.33em 0;
+}
+
+.list #lien3 a{
+    color: #747474;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 2em;
+    padding: 1.33em 0;
+}
+.list #lien1 a{
+    color:#00b39b ;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 2em;
+    padding: 1.33em 0;
+}
+#lien3{
+    position: relative;
+}
+.container-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+#para-1{
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    font-size: 2.125rem;
+}
+#img-logo{
+    padding: 1.33em 0; 
+}
+.container-3{
+display: flex;
+justify-content:space-around;
+
+}
+.col-3{
+    width: 25%;
+}
+.col-4{
+    width: 33.32%;
+}
+.col-6{
+    width: 41.64%;
+}
+
+body{
+    color: #747474;
+    font-weight: 400;
+}
+.box1{
+    height: 345px;
+    border-radius: 10%;
+    margin-top: 70px;
+    background-color: #00b39b;
+
+}
+
+.box2{
+    height: 345px;
+    border-radius: 10%;
+    margin-top: 70px;
+    background-color: #3d83df;
+
+}
+.box3{
+    height: 345px;
+    border-radius: 10%;
+    margin-top: 70px;
+    background-color:black;
+   
+
+}
+.container-4{
+    display: flex;
+    justify-content: space-around;
+}
+.para-2{
+    padding: 100px;
+}
+.icone-patients{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.para-3{
+    margin-left: 20px;
+    font-weight: 400;
+    color: #fff;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para-4{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 300;
+    color: #fff;
+    font-size: 24px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+ .selection select {
+  background: transparent;
+  border: 0;
+  text-decoration: underline;
+  padding-left: 20px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 300px;
+    
+}
+.selection select option{
+    color:black;
+}
+.icon-doctor{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.para-5{
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    color: #fff;
+}
+.para-6{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #fff;
+}
+.selection2 select{
+    background: none;
+    border: 0;
+    color: #fff;
+    margin-left: 20px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: underline;  
+}
+.selection2 select option{
+    color: black;
+}
+.icon-clinique img{
+    margin-left: 20px;
+    margin-top: 20px;
+    
+    
+
+}
+.para-7{
+    color: #fff;
+    margin-left: 20px;
+    font-size: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.para-8{
+    color: #fff;
+    margin-left: 20px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-right: 2px;
+}
+.selection3 select{
+    background: none;
+    border: 0;
+    color: #fff;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    text-decoration: underline;
+    margin-bottom: 15px;
+    
+
+}
+.selection3 select option{
+    color: black;
+}
+.selection4 select{
+    background: none;
+    border: 0;
+    color: #fff;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    text-decoration: underline;
+}
+.selection4 select option{
+    color: black;
+}
+.container5{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.fig1{
+    display: flex;
+    margin-top: 25px;
+}
+.fig-2{
+    display: flex;
+}
+.fig-3{
+    display: flex;
+    margin-top: 25px;
+}
+.fig-4{
+    display: flex;
+}
+.para-9{
+    color: #00b39b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+  
+}
+.fig1 .img1 path{
+    fill: hsla(0,0%,67%,.7)
+}
+ .img1:hover path{
+    fill: #00bfa5
+}
+
+
+.fig1 .img2 path{
+    fill: hsla(0,0%,67%,.7)}
+    
+
+    .img2:hover path{
+        fill: #00bfa5
+    }
+   
+
+
+
+.fig-2 .img3 path{
+    fill: hsla(0,0%,67%,.7)
+}
+.img3:hover path{
+    fill: #00bfa5
+}
+.fig-2 .img4{
+    -webkit-filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+    opacity: 0.6;
+   
+}
+.img4:hover{
+    filter: none;
+    opacity: 1;
+}
+ .img5{
+    opacity: 0.6;
+    -webkit-filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+   
+}
+.img5:hover{
+    filter: none;
+    opacity: 1;
+}
+.fig-3 .fig6 path{
+    fill: hsla(0,0%,67%,.7)
+}
+.fig6:hover path{
+    fill: #00bfa5
+}
+.fig-3 .fig7 path{
+    fill: hsla(0,0%,67%,.7)
+ 
+}
+.fig7:hover path{
+    fill: #00bfa5
+}
+.fig-4 .fig8{
+    opacity: 0.5;
+    -webkit-filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0); 
+
+}
+.fig8:hover{
+   filter: none;
+   opacity: 1;
+}
+.fig-4 .fig9{
+    opacity: 0.5;
+    -webkit-filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+   
+}
+.fig9:hover{
+    filter: none;
+    opacity: 1;
+}
+.fig-4 .fig10{
+    opacity: 0.5;
+    -webkit-filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+}
+.fig10:hover{
+    filter: none;
+    opacity: 1;
+}
+.sous-menu{
+    position: absolute;
+    width:250px;
+    background:#fff;
+    box-shadow:3px 3px 3px #747474;
+    display: none;
+}
+
+#lien3:hover > .sous-menu {
+    display: block; 
+}
+.container6{
+    background: #e5faf8;
+    background-image: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));
+    background-image: url("https://www.docplanner.com/img/logo.png" );
+    background-repeat: no-repeat;
+    background-position-y:300px;
+    background-position-x: left;
+    height: 600px;
+  
+    
+    display: flex;
+    justify-content: space-around;
+   
+}
+.titre{
+    color: #00b39b;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    margin-top: 100px;
+}
+.sous-titre{
+    color: #747474;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-family: 300;
+}
+.partie1{
+    display: flex;
+    flex-direction: column; 
+    width: 30%;
+}
+.img-design{
+    margin-left: 5px;
+}
+
+.petit-box1{
+    background-color:#fff;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+    margin-top: 50px;
+    margin-right: 20px;
+    overflow: hidden;
+   
+    
+   
+}
+.petit-box2{
+    background-color:#fff;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+    margin-bottom: 10px;
+    overflow: hidden;
+ 
+   
+}
+.petit-box3{
+    background-color:#fff;
+    height: 250px;
+    width: 250px;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+    margin-top: 30px;
+    margin-right: 20px;
+    
+    
+}
+.petit-box4{
+    background-color:#fff;
+    height: 250px;
+    width: 250px;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+  
+   
+   
+}
+.row1{
+    display: flex;
+    
+}
+.row2{
+    display: flex;
+   
+}
+.partie2{
+    width: 30%;
+ 
+}
+.drapeau{
+   text-align: center;
+   margin-top: 15px;
+}
+.sous-drapeau1{
+    text-align: center;
+    font-size: 24px;
+    color: #00b39b;
+    font-family: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sous-drapeau2{
+    text-align: center;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #747474;
+
+}
+.vérification{
+    text-align: center;
+    margin-top: 40px;
+}
+.sous-vérification1{
+    text-align: center;
+    color: #00b39b;
+    font-size: 24px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.sous-vérification2{
+    text-align: center;
+    color: #747474;
+    font-size: 15px;   
+}
+.patient-img {
+    text-align: center;
+    margin-top: 20px;
+}
+.sous-patient1{
+    text-align: center;
+    color: #00b39b;
+    font-size: 24px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.sous-patient2{
+    text-align: center;
+    color: #747474;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.docteur-img{
+    text-align: center;
+    margin-top: 20px;
+}
+.container7{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    
+}
+.grand-titre{
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    color: #00b39b;
+    text-align: center;
+}
+.petit-titre{
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    text-align: center;
+    color: #747474;
+}
+.container8{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+   
+}
+.ligne1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+  
+}
+.btn-marge{
+    margin-left: 5px;
+}
+.ligne2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    
+}
+.ligne3{
+    display: flex;
+    justify-content: space-around; 
+    margin-top: 30px;
+}
+.ligne4{
+    display: flex;
+    margin-left: 53px;
+    margin-top: 30px;
+    
+}
+.para-cont9{
+    text-align: center;
+    margin-top: 50px;
+}
+.bouton{
+    text-align: center;
+    margin-top: 30px;
+}
+.footer{
+    border-top: 1px solid #eef2f2;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.sous-footer{
+    margin-top: 30px;
+    font-size: 13px;
+    color: #747474;
+}
+.lien-footer{
+    font-size: 13px;
+    text-align: center;
+}
+
+
+
+
+
+
+
